@@ -27,10 +27,10 @@
             "#6419be"
         ],
         "INTERACTIVE_NORMAL": [
-            "#ffffff"
+            "#6419be"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#ffffff"
+            "#6419be"
         ],
         "INTERACTIVE_MUTED": [
             "#808080"
@@ -97,9 +97,9 @@
         ]
     },
     "rawColors": {
-        "PRIMARY_100": "#6419be",
-        "PRIMARY_200": "#6419be",
-        "PRIMARY_300": "#6419be",
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#ffffff",
+        "PRIMARY_300": "#ffffff",
         "PRIMARY_360": "#6419be",
         "PRIMARY_500": "#6419be",
         "PRIMARY_600": "#081924",
@@ -110,8 +110,8 @@
         "BRAND_260": "#6419be",
         "BRAND_360": "#6419be",
         "BRAND_500": "#6419be",
-        "BRAND_560": "#6419be",
-        "WHITE_500": "#6419be",
+        "BRAND_560": "#ffffff",
+        "WHITE_500": "#ffffff",
         "BLUE_345": "#6419be",
         "YELLOW_300": "#6419be",
         "ORANGE_345": "#6419be",
@@ -123,7 +123,7 @@
     "spec": 2,
     "background": {
         "url": "https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/PixelCity/bg.gif",
-        "alpha": 0.5,
+        "alpha": 0.25,
         "color": "#081924"
     }
 }
